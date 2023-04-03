@@ -12,16 +12,21 @@ test
 test
 
 # Courses
-test
+*  Udemy Testowanie Oprogramowania
+*  Udemy Jira
+*  Udemy Postman
+*  Udemy SQL
 
 # Books
-Zawod Tester 
+* Zawod Tester 
 
 # Groups on facebook
-test
+* Testowanie Oprogramowania - Polish community for testers 
+* Testowanie oprogramowania - wsparcie na starcie - Polish community for testers 
 
 # Blog I recommend 
-test
+* Dawid Balut - Security in testing and much more (https://dawidbalut.com)
+* Remigiusz Bednarczyk - Everything about testing (https://remigiuszbednarczyk.pl)
 
 # Webinars 
 test
@@ -33,9 +38,9 @@ test
 test
 
 # Crowd Testing sites I am part of
-*uTest - Since Febuary '23
-*Test.io - Since march '23
-*Testbirds - Since March '23
+* uTest - Since Febuary '23
+* Test.io - Since march '23
+* Testbirds - Since March '23
 
 # Examples of diagrams and decision tables
 test
