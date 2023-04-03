@@ -33,9 +33,9 @@ test
 test
 
 # Crowd Testing sites I am part of
-uTest - Since Febuary '23
-Test.io - Since march '23
-Testbirds - Since March '23
+*uTest - Since Febuary '23
+*Test.io - Since march '23
+*Testbirds - Since March '23
 
 # Examples of diagrams and decision tables
 test
