@@ -3,7 +3,7 @@
 Test test
 
 # Tools
-Test
+Jira,DevTools
 
 # Tech skills
 test
@@ -15,7 +15,7 @@ test
 test
 
 # Books
-test
+Zawod Tester 
 
 # Groups on facebook
 test
@@ -26,14 +26,16 @@ test
 # Webinars 
 test
 
-# My test case exaples
+# My test case examples
 test
 
 # My bug reports
 test
 
 # Crowd Testing sites I am part of
-test
+uTest - Since Febuary '23
+Test.io - Since march '23
+Testbirds - Since March '23
 
 # Examples of diagrams and decision tables
 test
